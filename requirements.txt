@@ -1,0 +1,11 @@
+Need Package:
+
+pandas
+time
+os
+slackclient
+requests
+json
+selenium
+scrapy
+pymongo
