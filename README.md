@@ -12,14 +12,16 @@
 
 ### Package
 
+- numpy
 - pandas
 - time
+- requests
 - os
 - slackclient
-- requests
 - json
 - selenium
 - scrapy
+- pymongo
 
 ### Application
 
@@ -63,7 +65,14 @@ $sudo cp chromedriver /usr/local/bin
   - News
     - scrapy
 
+  - Dictionary
+    - selenium
+
 - Send_msg
   - send my slack
     - send img
     - send msg
+
+- Save_Mongodb
+
+***

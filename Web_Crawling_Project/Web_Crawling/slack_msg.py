@@ -2,8 +2,8 @@
 import requests
 import json
 
-def send_msg_1(msg):
-    WEBHOOK_URL = "<your_slack_url>"
+def send_msg(msg):
+    WEBHOOK_URL = "<slack url>"
     payload = {
         "channel" : "#data",
         "username" : "AI_[ jupyter ]",
